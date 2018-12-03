@@ -6,8 +6,7 @@
   "scripts": {
     "electron": "electron ."
   },
-  "author":
-    "Luis D. Cortes <renaissance.scholar2012@gmail.com> (https://dancortes-portfolio.herokuapp.com/)",
+  "author": "Luis D. Cortes <renaissance.scholar2012@gmail.com> (https://dancortes-portfolio.herokuapp.com/)",
   "license": "MIT",
   "dependencies": {
     "electron": "3.0.8"
