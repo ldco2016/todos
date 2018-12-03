@@ -1,0 +1,15 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author":
+    "Luis D. Cortes <renaissance.scholar2012@gmail.com> (https://dancortes-portfolio.herokuapp.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "3.0.8"
+  }
+}
